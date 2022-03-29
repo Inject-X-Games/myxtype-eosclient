@@ -1,0 +1,5 @@
+{
+    "require": {
+        "myxtype/eos-client": "dev-master"
+    }
+}
